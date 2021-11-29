@@ -1,0 +1,157 @@
+2021-11-24 11:41:04,093 [main] INFO functionality.Test1 - for info
+2021-11-24 11:41:04,097 [main] WARN functionality.Test1 - for warn
+2021-11-24 11:41:04,097 [main] ERROR functionality.Test1 - for error
+2021-11-24 11:41:04,097 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 11:41:08,823 [main] INFO functionality.Test1 - browser opened
+2021-11-24 11:41:09,951 [main] INFO functionality.Test1 - window maximized
+2021-11-24 11:41:18,112 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 11:41:18,165 [main] INFO functionality.Test1 - click on next
+2021-11-24 11:41:18,220 [main] INFO functionality.Test1 - password enterd
+2021-11-24 11:41:24,398 [main] INFO functionality.Test1 - click on signin
+2021-11-24 11:41:29,427 [main] INFO functionality.Test1 - click on yes
+2021-11-24 11:42:30,135 [main] INFO functionality.Test1 - search for iTime
+2021-11-24 11:42:49,489 [main] INFO functionality.Test1 - select iTime from dropdown
+2021-11-24 11:46:08,749 [main] INFO functionality.Test1 - for info
+2021-11-24 11:46:08,753 [main] WARN functionality.Test1 - for warn
+2021-11-24 11:46:08,753 [main] ERROR functionality.Test1 - for error
+2021-11-24 11:46:08,753 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 11:46:13,267 [main] INFO functionality.Test1 - browser opened
+2021-11-24 11:46:13,933 [main] INFO functionality.Test1 - window maximized
+2021-11-24 11:46:22,096 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 11:46:22,151 [main] INFO functionality.Test1 - click on next
+2021-11-24 11:46:22,206 [main] INFO functionality.Test1 - password enterd
+2021-11-24 11:46:28,779 [main] INFO functionality.Test1 - click on signin
+2021-11-24 11:46:33,784 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:05:16,571 [main] INFO functionality.Test1 - for info
+2021-11-24 12:05:16,574 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:05:16,575 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:05:16,575 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:05:22,375 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:05:22,501 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:05:30,606 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:05:30,660 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:05:30,713 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:05:36,673 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:05:41,688 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:06:53,906 [main] INFO functionality.Test1 - for info
+2021-11-24 12:06:53,908 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:06:53,909 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:06:53,909 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:07:00,981 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:07:03,570 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:19:52,242 [main] INFO functionality.Test1 - for info
+2021-11-24 12:19:52,245 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:19:52,245 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:19:52,245 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:19:57,512 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:19:58,166 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:20:06,276 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:20:06,334 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:20:06,390 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:20:12,109 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:20:17,112 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:20:22,199 [main] INFO functionality.Test1 - search for iTime
+2021-11-24 12:23:20,648 [main] INFO functionality.Test1 - for info
+2021-11-24 12:23:20,651 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:23:20,652 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:23:20,652 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:23:26,298 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:23:26,426 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:23:34,539 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:23:34,592 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:23:34,655 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:23:40,529 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:47:22,289 [main] INFO functionality.Test1 - for info
+2021-11-24 12:47:22,297 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:47:22,297 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:47:22,298 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:48:09,387 [main] INFO functionality.Test1 - for info
+2021-11-24 12:48:09,392 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:48:09,392 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:48:09,392 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:48:23,285 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:48:23,509 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:48:32,021 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:48:32,117 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:48:32,215 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:48:38,318 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:48:55,319 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:49:52,282 [main] INFO functionality.Test1 - for info
+2021-11-24 12:49:52,286 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:49:52,287 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:49:52,287 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:50:01,046 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:50:01,183 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:50:09,398 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:50:09,524 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:50:09,647 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:50:16,738 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:50:43,584 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:53:18,817 [main] INFO functionality.Test1 - for info
+2021-11-24 12:53:18,823 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:53:18,824 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:53:18,824 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:53:26,141 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:53:26,289 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:53:34,473 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:53:34,578 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:53:34,716 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:53:41,111 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:54:16,521 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:55:00,095 [main] INFO functionality.Test1 - for info
+2021-11-24 12:55:00,099 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:55:00,099 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:55:00,099 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:55:08,273 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:55:14,061 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:55:22,263 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:55:22,345 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:55:22,436 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:55:29,164 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:55:53,483 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:58:06,655 [main] INFO functionality.Test1 - for info
+2021-11-24 12:58:06,658 [main] WARN functionality.Test1 - for warn
+2021-11-24 12:58:06,658 [main] ERROR functionality.Test1 - for error
+2021-11-24 12:58:06,658 [main] FATAL functionality.Test1 - for fatal
+2021-11-24 12:58:13,586 [main] INFO functionality.Test1 - browser opened
+2021-11-24 12:58:13,727 [main] INFO functionality.Test1 - window maximized
+2021-11-24 12:58:21,864 [main] INFO functionality.Test1 - usernme entered
+2021-11-24 12:58:21,921 [main] INFO functionality.Test1 - click on next
+2021-11-24 12:58:21,974 [main] INFO functionality.Test1 - password enterd
+2021-11-24 12:58:27,901 [main] INFO functionality.Test1 - click on signin
+2021-11-24 12:58:44,857 [main] INFO functionality.Test1 - click on yes
+2021-11-24 12:58:53,948 [main] INFO functionality.Test1 - search for iTime
+2021-11-24 12:59:17,866 [main] INFO functionality.Test1 - select iTime from dropdown
+2021-11-25 19:14:38,290 [main] INFO functionality.Test1 - for info
+2021-11-25 19:14:38,322 [main] WARN functionality.Test1 - for warn
+2021-11-25 19:14:38,322 [main] ERROR functionality.Test1 - for error
+2021-11-25 19:14:38,323 [main] FATAL functionality.Test1 - for fatal
+2021-11-25 19:14:48,840 [main] INFO functionality.Test1 - browser opened
+2021-11-25 19:14:48,989 [main] INFO functionality.Test1 - window maximized
+2021-11-25 19:14:57,211 [main] INFO functionality.Test1 - usernme entered
+2021-11-25 19:14:57,320 [main] INFO functionality.Test1 - click on next
+2021-11-25 19:14:57,439 [main] INFO functionality.Test1 - password enterd
+2021-11-25 19:16:44,187 [main] INFO functionality.Test1 - for info
+2021-11-25 19:16:44,191 [main] WARN functionality.Test1 - for warn
+2021-11-25 19:16:44,191 [main] ERROR functionality.Test1 - for error
+2021-11-25 19:16:44,191 [main] FATAL functionality.Test1 - for fatal
+2021-11-25 19:16:53,066 [main] INFO functionality.Test1 - browser opened
+2021-11-25 19:16:55,465 [main] INFO functionality.Test1 - window maximized
+2021-11-25 19:17:03,609 [main] INFO functionality.Test1 - usernme entered
+2021-11-25 19:17:03,677 [main] INFO functionality.Test1 - click on next
+2021-11-25 19:17:03,744 [main] INFO functionality.Test1 - password enterd
+2021-11-27 14:38:07,923 [main] INFO functionality.Test1 - for info
+2021-11-27 14:38:07,964 [main] WARN functionality.Test1 - for warn
+2021-11-27 14:38:07,965 [main] ERROR functionality.Test1 - for error
+2021-11-27 14:38:07,965 [main] FATAL functionality.Test1 - for fatal
+2021-11-27 14:38:39,145 [main] INFO functionality.Test1 - browser opened
+2021-11-27 14:38:40,995 [main] INFO functionality.Test1 - window maximized
+2021-11-27 14:38:49,200 [main] INFO functionality.Test1 - usernme entered
+2021-11-27 14:38:49,263 [main] INFO functionality.Test1 - click on next
+2021-11-27 14:38:49,334 [main] INFO functionality.Test1 - password enterd
+2021-11-27 14:38:55,613 [main] INFO functionality.Test1 - click on signin
+2021-11-27 14:39:26,190 [main] INFO functionality.Test1 - click on yes
+2021-11-27 14:39:40,975 [main] INFO functionality.Test1 - search for iTime
+2021-11-27 14:39:48,041 [main] INFO functionality.Test1 - select iTime from dropdown
+2021-11-27 14:40:13,640 [main] INFO functionality.Test1 - enter timesheet
+2021-11-27 14:40:18,888 [main] INFO functionality.Test1 - data saved
