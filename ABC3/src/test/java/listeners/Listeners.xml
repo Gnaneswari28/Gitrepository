@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNGListenerSuite">
+   <listeners>
+     <listener class-name="listeners.ListenersClass" />
+   </listeners>
+   
+   <test name=" HCL_Itime" >
+     <classes>
+       <class name="listeners.ListenersTest ">
+          <methods>
+           <include name="m1" />
+       
+          </methods>
+       </class>
+     </classes>
+   </test>
+</suite>
